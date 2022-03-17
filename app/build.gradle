@@ -8,8 +8,8 @@ android {
         applicationId "com.data.bpk2"
         minSdkVersion 21
         targetSdkVersion 32
-        versionCode 1
-        versionName "1.1"
+        versionCode 3
+        versionName "1.2"
 
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
