@@ -147,7 +147,7 @@ public class WebViewActivity extends AppCompatActivity {
         });
 
 //        mWebview .loadUrl("http://www.google.com");
-        w.loadUrl("http://policewelfare.bihar.gov.in/WebViewDashboard.aspx");
+        w.loadUrl("https://policewelfare.bihar.gov.in/WebViewDashboard.aspx");
 
 //        w.setWebViewClient(new WebViewClient());
 
@@ -213,7 +213,7 @@ public class WebViewActivity extends AppCompatActivity {
 
 
         // loading http://www.google.com url in the the WebView.
-        w.loadUrl("http://policewelfare.bihar.gov.in/WebViewDashboard.aspx");
+        w.loadUrl("https://policewelfare.bihar.gov.in/WebViewDashboard.aspx");
 
         w.setWebViewClient(new WebViewClient());
 //        w.setWebChromeClient(new WebChromeClient() {
